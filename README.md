@@ -1,3 +1,4 @@
+You can check my project [here](https://docs.google.com/spreadsheets/d/1TGhNLXBLGESPUQKz9c63-RP0w-rZkD04_nmZlMeCdt4/edit?usp=sharing)
 **Global Sales Analysis (Google Sheets)**
 
 Analysis of a retail sales dataset covering 1,246 orders across 45 countries and 12 product categories, from 2010 to 2017. Built in Google Sheets, exported to Excel format.
